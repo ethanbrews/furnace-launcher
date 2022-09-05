@@ -1,0 +1,26 @@
+﻿furnace
+    run
+        id*
+    options
+        list*
+        edit*
+        set
+            id*
+        get
+            id*
+    list*
+        --favourites
+        --verbose
+    modrinth
+        login*
+        logout*
+    mojang
+        login*
+        logout*
+    install
+        id*
+        url*
+    update*
+        id*
+    configure*
+        id*
